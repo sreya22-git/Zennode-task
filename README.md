@@ -45,7 +45,9 @@ List 3 projects / products you have built or have planned to build in the upcomi
 
 3 projects I have built or currently working on:
 During course of my internship in Hexagon AB, I have worked on a project called Pothole detection using Yolov5. This is an advanced object detection algorithm that detects the error in manhole(eg:above ground lvl..)Tech stack include Reactjs,Express and Yolov5(DEEP LEARNING)
+
 I have done a project called Leetcode clone which is like Leetcode built using Reactjs and Express. We can submit solutions just like in leetcode and see rating and daily submissions tab.
+
 A project that I am currently working is a Tourism Explorer where users can view variuos locations to visit and book any hotel online. Tools and Tech stack is Reactjs and tailwind ,Express.
 
 
