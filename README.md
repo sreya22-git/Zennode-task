@@ -16,7 +16,7 @@ This is the assignment for zonnode jnr developer role
     command in cmd or open your vscode and run it.
 
 
-#Task-2
+# Task-2
 
 Why do you like to join as a Software developer?
   I am a final-year Computer Science undergraduate at Chaitanya Bharathi Institute of Technology with a passion for hackathons and coding contests. Actively seeking opportunities to establish myself, I am interested in the Junior Developer role. I bring excellent problem-solving and analytical skills, coupled with strong communication and collaboration abilities. Eager to learn and contribute, I am committed to making a meaningful impact in a dynamic development environment.
