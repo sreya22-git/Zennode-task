@@ -1,5 +1,5 @@
 # Zennode-task
-This is the assignment for zonnode jnr developer role
+This is the assignment for zennode Jnr Developer role
 # How to run the code?
 1. Clone this repo using
    ```bash
